@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Cambio Idioma</string>
-    <string name="hello_world">Hola Mundo!</string>
+    <string name="hello_world">Hola Mundo Horizontal!</string>
     <string name="action_settings">Opciones</string>
 
 </resources>
